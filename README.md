@@ -1,8 +1,12 @@
 ## Mask-R-CNN-using-Tensorflow2
 
 This repository is an implementation of MaskRCNN using tensorflow2
+
 python = 3.8.20
+
 tensorflow-gpu = 2.4.0
+
+please follow the tutorial for reimplementation
 
 supported backbones are resnet101(default) and resnet50
 
