@@ -16,9 +16,9 @@ supported backbones are resnet101(default) and resnet50
 
 ## Plots
 </br>
-<img src="https://github.com/user-attachments/assets/133740bb-63af-416d-b061-d719a98a763a" width="300">
+<img src="https://github.com/user-attachments/assets/133740bb-63af-416d-b061-d719a98a763a" width="500">
 </br>
-<img src="https://github.com/user-attachments/assets/73c7e83f-1d52-4c64-ba08-9bc715016f0c" width="300">
+<img src="https://github.com/user-attachments/assets/73c7e83f-1d52-4c64-ba08-9bc715016f0c" width="500">
 
 ## Directory Structure
 ```
