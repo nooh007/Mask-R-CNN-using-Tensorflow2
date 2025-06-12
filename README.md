@@ -10,6 +10,12 @@ please follow the tutorial for reimplementation
 
 supported backbones are resnet101(default) and resnet50
 
+## 📘 Tutorial
+
+Please follow the tutorial below for complete reimplementation:
+
+[📄 Download Tutorial (MASKRCNN for Safety-Object-Detection)](https://github.com/nooh007/Mask-R-CNN-using-Tensorflow2/blob/main/tutorial_MASKRCNN.pdf)
+
 ## Sample predictions
 </br>
 <img src="https://github.com/user-attachments/assets/f0a8a2c4-e307-480b-98bb-7f68c09b552d" width="300">
